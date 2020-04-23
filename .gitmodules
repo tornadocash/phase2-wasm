@@ -1,0 +1,3 @@
+[submodule "phase2-bn254"]
+	path = phase2-bn254
+	url = https://github.com/kobigurk/phase2-bn254
